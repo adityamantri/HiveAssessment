@@ -1,0 +1,6 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fwall-background&psig=AOvVaw0E026T3nUOZo7j-X3gYJjI&ust=1668741301087000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJjf5L2gtPsCFQAAAAAdAAAAABAP");
+}
